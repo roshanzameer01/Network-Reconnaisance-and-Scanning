@@ -1,4 +1,4 @@
-# Network-Reconnaisance-and-Scanning
+# Network-Reconnaissance-and-Scanning
 
 ## 🧠 Skills Learned
 - **WHOIS Lookup:** Mastered the technique of conducting WHOIS lookups to gather crucial network information, including ownership details and registration status.
